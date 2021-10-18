@@ -55,7 +55,7 @@ ROOT_URLCONF = 'django_site.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/programacion2/proyecto-django/polls/plantillas'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
